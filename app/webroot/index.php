@@ -108,3 +108,5 @@ $Dispatcher->dispatch(
 	new CakeRequest(),
 	new CakeResponse()
 );
+
+print "hello";
